@@ -3,12 +3,7 @@
 ## Overview
 This repository hosts the code and resources used in the dissertation titled "Analyzing Complexity Measures in Diverse Dynamical Regimes to Understand States of Consciousness." The project focuses on using two primary complexity measures—Statistical Complexity (SC) and Lempel-Ziv complexity (LZc)—to analyze neural states from both simulated models and real-world EEG data.
 
-## Contents
-- **/data/**: Sample data files used in the analysis, including simulated data. Note that the real intracranial EEG (iEEG) recordings are not publicly available due to legal constraints.
-- **/scripts/**: Python scripts implementing the complexity measures, data preprocessing, and analysis workflows.
-- **/notebooks/**: Jupyter notebooks that walk through the analysis step-by-step, with explanations and visualizations.
-- **/results/**: Output files and visualizations generated from the analysis.
-- **/docs/**: Documentation and additional resources for understanding and extending the codebase.
+- **Note** that the real intracranial EEG (iEEG) recordings are not publicly available due to legal constraints.
 
 ## Getting Started
 1. **Clone the repository**: 
