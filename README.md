@@ -3,9 +3,9 @@
 ## Overview
 This repository hosts the code and resources used in the dissertation titled *"Complexity Measures in Diverse Dynamical Regimes and Application to States of Consciousness."* The project focuses on applying two primary complexity measures—Statistical Complexity (SC) and Lempel-Ziv complexity (LZc)—to analyze neural states from both simulated models and real-world (iEEG) data.
 
-**Statistical Complexity (SC)** captures the structural complexity and information processing within the system. It reflects organized and predictive neural behavior by accounting for temporal correlations in the data. This measure helps to distinguish between chaotic and highly ordered systems by assessing the balance between randomness and structure.
+**Statistical Complexity (SC)** captures the structural complexity and information processing within the system. It reflects organized and predictive neural behavior by accounting for temporal correlations in the data. 
 
-**Lempel-Ziv Complexity (LZc)**, in contrast, is sensitive to randomness, measuring the diversity and unpredictability of patterns within the data. It provides insights into the irregularity of neural states, revealing fluctuations in the underlying brain dynamics.
+**Lempel-Ziv Complexity (LZc)**, in contrast, is sensitive to randomness, measuring the diversity and unpredictability of patterns within the data.
 
 This repository includes code for preprocessing, simulating models, complexity analysis, and visualizing the results, alongside resources to facilitate reproducing the experiments.
 
